@@ -11,7 +11,7 @@ for(int i=0;i<=row;i++)
 {
 for(int j=row-i;j>=1;j--)
 {
-printf("#");
+printf(" #");
 }
 printf("\n");
 }
