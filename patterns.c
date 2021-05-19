@@ -13,7 +13,7 @@ for(int j=row-i;j>=1;j--)
 {
 printf("#");
 }
-  printf("\n");
+  printf(".\n");
 }
 }
 else if(type==2)
