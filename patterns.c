@@ -20,7 +20,7 @@ else if(type==2)
 {
 for(int i=1;i<=row;i++)
 {
-  printf("\n");
+  printf(".\n");
 int k=row-i;
 while(k>0)
 {
