@@ -9,11 +9,11 @@ if(type==1)
 {
 for(int i=0;i<=row;i++)
 {
-  printf("\n");
 for(int j=row-i;j>=1;j--)
 {
 printf("#");
 }
+  printf("\n");
 }
 }
 else if(type==2)
