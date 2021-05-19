@@ -7,7 +7,7 @@ type=get_int("");
 row=get_int("");
 if(type==1)
 {
-for(int i=0;i<=row;i++)
+for(int i=0;i<=row-1;i++)
 {
 for(int j=row-i;j>=1;j--)
 {
