@@ -20,6 +20,7 @@ else if(type==2)
 {
 for(int i=1;i<=row;i++)
 {
+  printf("\n");
 int k=row-i;
 while(k>0)
 {
@@ -30,7 +31,6 @@ for(int j=i;j>=1;j--)
 {
 printf("#");
 }
-printf("\n");
 }
 }
 }
