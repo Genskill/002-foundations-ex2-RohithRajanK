@@ -3,8 +3,8 @@
 int main(void)
 {
 int type,row;
-type=get_int("Enter type of pattern (1 or 2)");
-row=get_int("Number of rows");
+type=get_int();
+row=get_int();
 if(type==1)
 {
 for(int i=0;i<=row;i++)
